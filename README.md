@@ -1,5 +1,5 @@
 # Flow-cytometry-panel-planner
-[Lior Schori](schorilior.github.io) 
+[Lior Schori](https://schoril.github.io/) 
 
 
 I will write a script that:
