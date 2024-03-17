@@ -17,3 +17,13 @@ I will write a script that:
   - Fluorophores with an overlap of over 0.7 will not be used together.
 5. Printing the final result: a dictionary with antigens and their assigned fluorophores. If no matching fluorophores are available, a message will be given.
 
+# enviorment setup
+- Python Version: I am using python 3.12.1 
+- Pandas Requirement: Make sure you have Pandas version 2.2.1 or higher installed
+- Function Files: Ensure that all function files are located in the same folder as the main code.
+- Data File: Place the "Ab_list.xlsx" file in the same folder as the main code.
+
+# Code Execution:
+The code will run smoothly. During execution, it will prompt the user to select antigens via a graphical user interface (GUI). Users should press on all the desired antigens and then press submit. The code will proceed based on the user's input.
+
+
